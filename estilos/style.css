@@ -32,7 +32,7 @@ section#login{
     left: 50%;
     overflow: hidden;
 
-    transition: width 0.3s,heigh 0.3s;
+    transition: width 0.3s,height 0.3s;
     transition-timing-function: ease;
 
 
@@ -73,9 +73,8 @@ div.campo > label{
  div.campo > span{ 
     color: white;
     background-color: black;
-    font-size: 2em;
     width: 40px;
-    padding: 4.4px;
+    padding: 2px;
  }
 
 form > div.campo{
