@@ -70,12 +70,6 @@ div#formulario > p{
 div.campo > label{
     display: none;
 }
- div.campo > span{ 
-    color: white;
-    background-color: black;
-    width: 40px;
-    padding: 2px;
- }
 
 form > div.campo{
     background-color: #5f2c82;
